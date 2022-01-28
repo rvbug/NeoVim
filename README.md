@@ -1,4 +1,4 @@
-# Lua Basics
+# Lua Basics & NeoVim
 
 
 print("hello world")
