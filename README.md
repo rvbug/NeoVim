@@ -1,2 +1,4 @@
-# NeoVim
-Lua for NeoVim config
+# Lua Basics
+
+
+print("hello world")
